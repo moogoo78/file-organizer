@@ -64,3 +64,7 @@ python scripts/plan.py scan.json --mode type --out plan.json   # review plan.jso
 python scripts/apply.py plan.json
 python scripts/undo.py ~/Downloads/.organize_log_YYYYMMDD_HHMMSS.json
 ```
+
+## License
+
+[MIT](LICENSE)
